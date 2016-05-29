@@ -16,12 +16,12 @@
     "bitcoin"
   ],
   "author": "Josh Harvey <josh@lamassu.is> (https://lamassu.is/)",
-  "license": "unlicense",
+  "license": "Unlicense",
   "bugs": {
     "url": "https://github.com/lamassu/lamassu-idology/issues"
   },
   "dependencies": {
-    "lamassu-config": "~1.0.0",
+    "lamassu-config": "^0.4.4",
     "promptly": "~0.2.0",
     "ramda": "^0.8.0",
     "wreck": "~3.0.0"
